@@ -29,9 +29,11 @@
 请注意，合理运用技巧是提升竞争力的一种方式，但坚持学习和提升实力才是根本。祝每一位参赛者在算法的海洋中都能找到属于自己的宝藏！
 
 ## 下载链接
-[骗分导论OI.pdf-OI赛事中的策略与技巧宝典分享](https://pan.quark.cn/s/d4acb9cffb48) 
+~~[骗分导论OI.pdf-OI赛事中的策略与技巧宝典分享](https://pan.quark.cn/s/d4acb9cffb48)~~
 
-(备用: [备用下载](https://pan.baidu.com/s/1d1JX0irrt5U7E1RZLJKNYw?pwd=1234))
+~~(备用: [备用下载](https://pan.baidu.com/s/1d1JX0irrt5U7E1RZLJKNYw?pwd=1234))~~
+
+去他妈的 ~~[数据删除]~~
 
 ## 说明
 
